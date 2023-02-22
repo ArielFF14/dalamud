@@ -39,9 +39,9 @@
 	  "ApplicableVersion": "any",
 	  "AssemblyVersion": "2.0.3.6",
 	  "Author": "UnknownX",
-			  "CategoryTags": [
-			    "utility"
-			  ],
+	  "CategoryTags": [
+	    "utility"
+	  ],
 	  "DalamudApiLevel": 8,
 	  "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
 	  "DownloadCount": 0,
