@@ -21,12 +21,12 @@
     },
     {
         "Author": "Lichie",
-        "Name": "LMeter",
-        "Description": "Plugin to display ACT combat log data.",
-        "InternalName": "LMeter",
-        "AssemblyVersion": "0.1.8.0",
-        "TestingAssemblyVersion": "0.1.8.0",
-        "RepoUrl": "https://github.com/lichie567/LMeter",
+        "Name": "XIVAuras",
+        "Description": "Customizable status and cooldown tracking.",
+        "InternalName": "XIVAuras",
+        "AssemblyVersion": "0.2.5.0",
+        "TestingAssemblyVersion": "0.2.5.0",
+        "RepoUrl": "https://github.com/lichie567/XIVAuras",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "IsHide": "False",
@@ -34,30 +34,30 @@
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
-        "DownloadLinkTesting": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
-        "DownloadLinkUpdate": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
-        "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
+        "DownloadLinkInstall": "https://github.com/lichie567/XIVAuras/releases/download/0.2.5.0/XIVAuras.zip",
+        "DownloadLinkTesting": "https://github.com/lichie567/XIVAuras/releases/download/0.2.5.0/XIVAuras.zip",
+        "DownloadLinkUpdate": "https://github.com/lichie567/XIVAuras/releases/download/0.2.5.0/XIVAuras.zip",
+        "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png"
     },
     {
         "Author": "Puni.sh",
         "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Changelog": "- Minor release for project dependency upgrade, no major changes",
+        "Tags": [
+          "combat"
+        ],
         "InternalName": "Avarice",
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
-        "Tags": [
-            "combat"
-        ],
         "DalamudApiLevel": 8,
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "Changelog": "- Minor release for project dependency upgrade, no major changes",
+        "DownloadCount": 1973,
+        "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "LastUpdate": "1673455610"
-    },
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/avarice.png",
+        "AcceptsFeedback": true
+    }
 ]
