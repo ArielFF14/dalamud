@@ -107,29 +107,28 @@
 	"Tags": ["ui", "penumbra", "material", "skotlex", "sevii", "accent", "color"]
     },
     {
-	"Author": "Aida Enna",
-	"Name": "Food Check",
-	"Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
-	"Punchline": "Someone in our group wouldn't eat their food. I got tired of telling them to. Now the plugin does.",
-	"InternalName": "FoodCheck",
-	"AssemblyVersion": "1.0.0.1",
-	"Changelog": "",
-	"RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-	"ApplicableVersion": "any",
+	"Author": "ric0x101010",
+	"Name": "XIVMicroPaser for Dalamud",
+	"Description": "A Dalamud plugin that parses target information, the group DPS and an estimated time to kill.",
+	"Punchline": "Extra traget Info",
+	"InternalName": "XIVMicroPaserDalamud",
 	"Tags": [
-	"food",
-	"foodcheck",
-	"raid",
-	"aida"
+	      "target",
+	      "ui",
+	      "DPS Meta"
 	],
+	"RepoUrl": "https://github.com/ric0x101010/xivmicroparserdalamud",
+	"ApplicableVersion": "any",      
 	"DalamudApiLevel": 8,
+	"LoadPriority": 0,
+	"ImageUrls": null,
+	"IconUrl": "",
 	"IsHide": "False",
 	"IsTestingExclusive": "False",
-	"LastUpdated": 1678917266,
-	"DownloadCount": 69420,
-	"IconUrl": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/Plogon/Resources/Icons/FoodCheck.png",
-	"DownloadLinkInstall": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/FoodCheck.zip?raw=true",
-	"DownloadLinkTesting": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/FoodCheck.zip?raw=true",
-	"DownloadLinkUpdate": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/FoodCheck.zip?raw=true"
+	"LastUpdated": 0,
+	"DownloadCount": 0,
+	"DownloadLinkInstall": "",
+	"DownloadLinkTesting": "",
+	"DownloadLinkUpdate": ""
     }
 ]
