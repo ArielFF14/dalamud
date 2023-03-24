@@ -59,50 +59,5 @@
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/avarice.png",
         "AcceptsFeedback": true
-    },
-    {
-        "Author": "Usagi",
-        "Name": "IINACT",
-        "InternalName": "IINACT",
-        "AssemblyVersion": "2.0.4.2",
-        "TestingAssemblyVersion": "2.0.4.2",
-        "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/marzent/IINACT",
-        "Tags": [
-        "parsing",
-        "plugin",
-        "ACT"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
-        "Punchline": "A parsing plugin.",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.0.4.2/IINACT.zip",
-        "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.0.4.2/IINACT.zip",
-        "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.0.4.2/IINACT.zip"
-    },
-	{
-		"Author": "Paissa Heavy Industries",
-		"Name": "Telesto",
-		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
-		"InternalName": "Telesto",
-		"AssemblyVersion": "0.9.8.4",
-		"RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
-		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
-		"ApplicableVersion": "any",
-		"Tags": [
-			"telesto", "prrp", "trigger", "triggernometry", "meow"
-		],
-		"DalamudApiLevel": 8,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"LastUpdated": 0,
-		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip"
-	}
+    }
 ]
