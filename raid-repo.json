@@ -64,26 +64,6 @@
         "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/LMeter/master/deps/img/icon.png"
     },
     {
-        "Author": "Lichie",
-        "Name": "LMeter",
-        "Description": "Plugin to display ACT combat log data. [Proof of Concept IPC build]",
-        "InternalName": "LMeter",
-        "AssemblyVersion": "0.1.8.0",
-        "TestingAssemblyVersion": "0.1.8.0",
-        "RepoUrl": "https://github.com/lichie567/LMeter",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://github.com/joshua-software-dev/LMeter/releases/download/prerc.v2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/joshua-software-dev/LMeter/releases/download/prerc.v2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/joshua-software-dev/LMeter/releases/download/prerc.v2/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
-    },
-    {
         "Author": "UnknownX",
         "Name": "Cammy",
         "Punchline": "A simple editor for the game's camera settings",
