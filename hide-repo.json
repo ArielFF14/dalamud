@@ -64,6 +64,27 @@
         "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/LMeter/master/deps/img/icon.png"
     },
     {
+	"Author": "Paissa Heavy Industries",
+	"Name": "Telesto",
+	"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
+	"InternalName": "Telesto",
+	"AssemblyVersion": "1.0.0.0",
+	"RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
+	"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"telesto", "prrp", "trigger", "triggernometry", "meow"
+	],
+	"DalamudApiLevel": 8,
+	"IsHide": "False",
+	"IsTestingExclusive": "False",
+	"LastUpdated": 0,
+	"DownloadCount": 0,
+	"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
+	"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
+	"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip"
+    },
+    {
         "Author": "Puni.sh",
         "Name": "Avarice",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
