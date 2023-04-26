@@ -64,27 +64,6 @@
         "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/LMeter/master/deps/img/icon.png"
     },
     {
-	"Author": "Paissa Heavy Industries",
-	"Name": "Lemegeton",
-	"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
-	"InternalName": "Lemegeton",
-	"AssemblyVersion": "1.0.0.1",
-	"RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-	"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
-	"ApplicableVersion": "any",
-	"Tags": [
-		"meow"
-	],
-	"DalamudApiLevel": 8,
-	"IsHide": "False",
-	"IsTestingExclusive": "False",
-	"LastUpdated": 0,
-	"DownloadCount": 0,
-	"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.1/Lemegeton_1_0_0_1.zip",
-	"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.1/Lemegeton_1_0_0_1.zip",
-	"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.1/Lemegeton_1_0_0_1.zip"
-    },
-    {
         "Author": "Puni.sh",
         "Name": "Avarice",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
