@@ -20,30 +20,6 @@
         "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png"
     },
     {
-	"Author": "Usagi",
-	"Name": "IINACT",
-	"InternalName": "IINACT",
-	"AssemblyVersion": "2.1.5.1",
-	"TestingAssemblyVersion": "2.1.5.1",
-	"Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/marzent/IINACT",
-	"Tags": [
-	"parsing",
-	"plugin",
-	"ACT"
-	],
-	"DalamudApiLevel": 8,
-	"LoadPriority": 0,
-	"IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
-	"Punchline": "A parsing plugin.",
-	"IsHide": "False",
-	"IsTestingExclusive": "False",
-	"DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.1.5.1/IINACT.zip",
-	"DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.1.5.1/IINACT.zip",
-	"DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.1.5.1/IINACT.zip"
-    },
-    {
         "Author": "Lichie, joshua.software.dev",
         "Name": "LMeter",
         "Description": "Plugin to display ACT combat log data.",
@@ -90,25 +66,26 @@
         "LastUpdate": "1676603612"
     },
     {
-        "Author": "NightmareXIV",
-        "Name": "Splatoon",
-        "Punchline": "Splatoon plugin is an accessibility tool for Final Fantasy XIV. ",
-        "Description": "Splatoon plugin is an accessibility tool for Final Fantasy XIV. It provides a custom waymark system and allows to create infinite grouped waymarks, labels and actor indicators with pixel precision, enabling player to see important objects and events easier and react to them faster. Plugin does not comes with any preconfigured presets, you are required to either make them or import them. ",
-        "Tags": ["Utility", "Accessibility"],
-        "InternalName": "Splatoon",
-        "AssemblyVersion": "3.2.1.3",
-        "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
-        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
-        "DownloadCount": 1000,
-        "LastUpdated": "0"
+	"Author": "NightmareXIV",
+	"Name": "Splatoon",
+	"Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks. ",
+	"Description": "Splatoon plugin is an accessibility tool for Final Fantasy XIV. It provides a custom waymark system and allows to create infinite grouped waymarks, labels and actor indicators with pixel precision, enabling player to see important objects and events easier and react to them faster. Plugin does not comes with any preconfigured presets, you are required to either make them or import them. ",
+	"Tags": [
+	"Utility",
+	"Accessibility"
+	],
+	"InternalName": "Splatoon",
+	"AssemblyVersion": "3.2.1.4",
+	"RepoUrl": "https://github.com/PunishXIV/Splatoon",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"DownloadCount": 297,
+	"LastUpdate": 1684889732,
+	"DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
+	"DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
+	"DownloadLinkTesting": "https://love.puni.sh/plugins/Splatoon/latest.zip",
+	"IconUrl": "https://love.puni.sh/resources/splatoon.png",
+	"AcceptsFeedback": true
     },
     {
 	"Author": "Paissa Heavy Industries",
