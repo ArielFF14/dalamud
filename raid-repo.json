@@ -79,12 +79,12 @@
 	"Accessibility"
 	],
 	"InternalName": "Splatoon",
-	"AssemblyVersion": "3.2.1.4",
+	"AssemblyVersion": "3.2.1.5",
 	"RepoUrl": "https://github.com/PunishXIV/Splatoon",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 8,
-	"DownloadCount": 297,
-	"LastUpdate": 1684889732,
+	"DownloadCount": 4773,
+	"LastUpdate": 1684932968,
 	"DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
 	"DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
 	"DownloadLinkTesting": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -113,25 +113,26 @@
 	"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.17/Lemegeton_1_0_0_17.zip"
     },
     {
-        "Author": "Puni.sh",
-        "Name": "Avarice",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "InternalName": "Avarice",
-        "AssemblyVersion": "2.0.0.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "combat"
-        ],
-        "DalamudApiLevel": 8,
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "Changelog": "- Minor release for project dependency upgrade, no major changes",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "LastUpdate": "1673455610"
+	"Author": "кайт машина (Puni.sh)",
+	"Name": "Avarice",
+	"Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+	"Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+	"Changelog": "- Minor release for project dependency upgrade, no major changes",
+	"Tags": [
+	"combat"
+	],
+	"InternalName": "Avarice",
+	"AssemblyVersion": "2.0.1.3",
+	"RepoUrl": "https://github.com/PunishXIV/Avarice",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"DownloadCount": 6609,
+	"LastUpdate": 1684973328,
+	"DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"IconUrl": "https://love.puni.sh/resources/avarice.png",
+	"AcceptsFeedback": true
     },
     {
 	"Author": "Sevii",
