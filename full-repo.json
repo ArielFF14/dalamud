@@ -1,5 +1,25 @@
 [
     {
+	"Author": "Lichie",
+        "Name": "XIVAuras",
+        "Description": "Customizable status and cooldown tracking.",
+        "InternalName": "XIVAuras",
+        "AssemblyVersion": "2.6.0",
+        "TestingAssemblyVersion": "2.6.0",
+        "RepoUrl": "https://github.com/tischel/XIVAuras",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/tischel/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "DownloadLinkTesting": "https://github.com/tischel/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "DownloadLinkUpdate": "https://github.com/tischel/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "IconUrl": "https://raw.githubusercontent.com/tischel/XIVAuras/main/XIVAuras/Media/Images/icon.png"
+    },
+    {
 	"Author": "Usagi",
 	"Name": "IINACT",
 	"InternalName": "IINACT",
