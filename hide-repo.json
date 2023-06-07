@@ -84,24 +84,25 @@
 	"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.7/Lemegeton_1_0_1_7.zip"
 },
     {
-        "Author": "Puni.sh",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Changelog": "- Minor release for project dependency upgrade, no major changes",
-        "Tags": [
-          "combat"
-        ],
-        "InternalName": "Avarice",
-        "AssemblyVersion": "2.0.0.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadCount": 1973,
-        "LastUpdate": 1673455610,
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "AcceptsFeedback": true
+	"Author": "кайт машина (Puni.sh)",
+	"Name": "Avarice",
+	"Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+	"Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+	"Changelog": "- DRG: option to disable drawing anticipated positional if user is under the effects of Right Eye",
+	"Tags": [
+	"combat"
+	],
+	"InternalName": "Avarice",
+	"AssemblyVersion": "2.0.2.0",
+	"RepoUrl": "https://github.com/PunishXIV/Avarice",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"DownloadCount": 8704,
+	"LastUpdate": 1686174812,
+	"DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
+	"IconUrl": "https://love.puni.sh/resources/avarice.png",
+	"AcceptsFeedback": true
     }
 ]
