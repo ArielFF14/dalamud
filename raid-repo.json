@@ -20,6 +20,26 @@
         "IconUrl": "https://raw.githubusercontent.com/tischel/XIVAuras/main/XIVAuras/Media/Images/icon.png"
     },
     {
+	"Author": "Lichie, Wisteria",
+        "Name": "ReBuff",
+        "Description": "Customizable status and cooldown tracking.",
+        "InternalName": "XIVAuras",
+        "AssemblyVersion": "0.3.0.5",
+        "TestingAssemblyVersion": "0.3.0.5",
+        "RepoUrl": "https://github.com/WesBosch/ReBuff",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.5/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.5/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png"
+    },
+    {
         "Author": "Lichie, joshua.software.dev",
         "Name": "LMeter",
         "Description": "Plugin to display ACT combat log data.",
