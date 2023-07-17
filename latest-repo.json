@@ -19,7 +19,7 @@
         "DownloadLinkUpdate": "https://github.com/Tischel/XIVAuras/releases/download/2.6.1/XIVAuras.zip",
         "IconUrl": "https://raw.githubusercontent.com/Tischel/XIVAuras/main/XIVAuras/Media/Images/icon.png"
     },
-/*    {
+/*    
         "Author": "Lichie",
         "Name": "LMeter",
         "Description": "Plugin to display ACT combat log data.",
@@ -38,7 +38,7 @@
         "DownloadLinkTesting": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
         "DownloadLinkUpdate": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
         "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
-    },　*/
+*/
     {	
 	"Author": "Usagi",
 	"Name": "IINACT",
