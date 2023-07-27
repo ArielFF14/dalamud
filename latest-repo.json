@@ -258,32 +258,6 @@
 	"DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip"
     },
     {
-	"Author": "Bluefissure",
-	"Name": "HousingPos",
-	"InternalName": "HousingPos",
-	"AssemblyVersion": "1.3.1.0",
-	"Description": "Automatically save/load the positions of housing furnitures.",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/Bluefissure/HousingPos",
-	"Tags": [
-	"bluefissure",
-	"housing"
-	],
-	"DalamudApiLevel": 8,
-	"LoadRequiredState": 0,
-	"LoadSync": false,
-	"LoadPriority": 0,
-	"Punchline": "A housing tool",
-	"AcceptsFeedback": true,
-	"IsHide": "False",
-	"IsTestingExclusive": "False",
-	"DownloadCount": 0,
-	"LastUpdate": "1673833893",
-	"DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
-	"DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
-	"DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip"
-    },
-    {
 	"Author": "LeonBlade",
 	"Name": "Burning Down the House",
 	"Description": "Move around housing items with coordinates and allows you to place anywhere.",
