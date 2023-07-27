@@ -256,5 +256,57 @@
 	"DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
 	"DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
 	"DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip"
+    },
+    {
+	"Author": "LeonBlade",
+	"Name": "Burning Down the House",
+	"Description": "Move around housing items with coordinates and allows you to place anywhere.",
+	"InternalName": "BDTHPlugin",
+	"AssemblyVersion": "1.5.9",
+	"RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+	"ApplicableVersion": "any",
+	"Tags": [
+	"bdth",
+	"housing",
+	"float",
+	"place",
+	"glitch",
+	"furnishing",
+	"LeonBlade"
+	],
+	"DalamudApiLevel": 8,
+	"IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+	"IsHide": "False",
+	"IsTestingExclusive": "False",
+	"LastUpdated": 1682384035,
+	"DownloadCount": 55162,
+	"DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
+	"DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
+	"DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
+    },
+    {
+	"Author": "Jawslouis",
+	"Name": "MakePlace Plugin",
+	"InternalName": "MakePlacePlugin",
+	"AssemblyVersion": "2.25",
+	"Punchline": "Automatically save & load furniture layouts in your house.",
+	"Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+	"Tags": [
+	"makeplace",
+	"housing",
+	"furniture",
+	"jawslouis"
+	],
+	"DalamudApiLevel": 8,
+	"LoadPriority": 0,
+	"IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+	"DownloadCount": 127331,
+	"DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.25/MakePlacePlugin.zip",
+	"DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.25/MakePlacePlugin.zip",
+	"DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.25/MakePlacePlugin.zip",
+	"_isDip17Plugin": false,
+	"_Dip17Channel": null
     }
 ]
