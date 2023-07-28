@@ -308,31 +308,5 @@
 	"DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.25/MakePlacePlugin.zip",
 	"_isDip17Plugin": false,
 	"_Dip17Channel": null
-    },
-  {
-    "Author": "ocealot",
-    "Name": "VFXEditor",
-    "Punchline": "VFX editor and viewer",
-    "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
-    "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.7.7.2",
-    "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "VFX",
-      "AVFX"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 69421,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 246088,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1658965453",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api8",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api8",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
-  },
+    }
 ]
