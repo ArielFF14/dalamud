@@ -75,7 +75,7 @@
 	"combat"
 	],
 	"InternalName": "Avarice",
-	"AssemblyVersion": "2.0.3.0",
+	"AssemblyVersion": "2.0.3.2",
 	"TestingAssemblyVersion": "2.0.3.2",
 	"RepoUrl": "https://github.com/PunishXIV/Avarice",
 	"ApplicableVersion": "any",
