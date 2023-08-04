@@ -308,5 +308,24 @@
 	"DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.25/MakePlacePlugin.zip",
 	"_isDip17Plugin": false,
 	"_Dip17Channel": null
+    },
+    {
+        "Author": "NightmareXIV",
+        "Name": "Instancinator",
+        "Punchline": "[beta] A helper to change instances in instanced areas. Requires Yes Already to be installed and enabled. ",
+        "InternalName": "Instancinator",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/NightmareXIV/Instancinator",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
