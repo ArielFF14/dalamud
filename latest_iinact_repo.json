@@ -63,7 +63,7 @@
         "DownloadLinkUpdate": "https://github.com/joshua-software-dev/LMeter/releases/download/v0.2.0.19/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/LMeter/master/deps/img/icon.png",
         "Changelog": "# Version 0.2.0.19\n- Fix occasional text doubling in cactbot popups (alarms, alerts, info)"
-    }
+    },
     {
         "Author": "UnknownX",
         "Name": "Cammy",
