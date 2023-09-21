@@ -135,26 +135,6 @@
         "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
         "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip"
     },
-    {
-        "Author": "Sevii",
-        "Name": "Material UI",
-        "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate",
-        "InternalName": "MaterialUI",
-        "AssemblyVersion": "1.4.9",
-        "TestingAssemblyVersion": "1.4.9",
-        "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
-        "Tags": ["ui", "penumbra", "material", "skotlex", "sevii", "accent", "color"]
-    },
     {	
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Artisan",
@@ -199,6 +179,25 @@
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Pandora/Testing/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/pandora.png",
+        "AcceptsFeedback": true
+    },
+    {
+        "Author": "кайт машина (Puni.sh)",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "InternalName": "AutoRetainer",
+        "AssemblyVersion": "3.1.4.6",
+        "TestingAssemblyVersion": "3.1.5.5",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadCount": 74865,
+        "LastUpdate": 1691612920,
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
         "AcceptsFeedback": true
     },
     {
